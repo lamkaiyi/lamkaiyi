@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kai Yi</h1>
-<h3 align="center">An undergraduate majoring in Data Science and Artificial Intelligence in Nanyang Technological University</h3>
+<h3 align="center">An undergraduate majoring in Data Science and Artificial Intelligence at Nanyang Technological University</h3>
 
 - 📫 How to reach me **lamkaiyi99@gmail.com**
 
