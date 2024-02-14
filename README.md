@@ -15,4 +15,4 @@
 
 <p>  </p>
 
-[![Spotify](https://spotify-widget-rhto.vercel.app/api/spotify)](https://open.spotify.com/user/lamkaiyi)
+[![Spotify](https://spotify-widget-rhto.vercel.app/api/spotify)](https://open.spotify.com/user/bigmacmajor)
