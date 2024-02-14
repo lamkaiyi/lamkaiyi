@@ -22,6 +22,6 @@
 <p align="center"> <a title="Muzikdagitimi.com, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons" href="https://open.spotify.com"><img width="64" alt="Antu spotify" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Antu_spotify.svg/64px-Antu_spotify.svg.png"></a> 
 
 &nbsp;<div align="center">
-[![Spotify](https://spotify-widget-rhto.vercel.app/api/spotify?background_color=8b0000&border_color=ffffff)](https://open.spotify.com/user/bigmacmajor)
+[![Spotify](https://spotify-widget-rhto.vercel.app/api/spotify?&border_color=ffffff)](https://open.spotify.com/user/bigmacmajor)
 </div>
 </div>
